@@ -19,7 +19,7 @@ theme:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "dhelmick103@gmail.com"
   behance:
   bitbucket:
   dribbble:
@@ -28,19 +28,19 @@ theme:
   github: "https://github.com/dhelmick103"
   google_plus:
   instagram:
-  linkedin:  https://www.linkedin.com/in/daniel-helmick-63645923
+  linkedin:  "https://www.linkedin.com/in/daniel-helmick-63645923"
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: https://twitter.com/dhelmick103
+  twitter: "https://twitter.com/dhelmick103"
   wordpress:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-81927917-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
