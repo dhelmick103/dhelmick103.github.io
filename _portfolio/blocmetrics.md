@@ -7,23 +7,29 @@ short-description: Blocmetrics, an analytics service to track events on websites
 
 ---
 
-Explanation
+## Explanation
 
 Blocmetrics is a web application that tracks events on websites. It incorporates the devise gem for signing
 in and out, client-side JavaScript, server-side API, and Chartkick.
 
-Problem
+## Problem
 
 How to build an analytics application that tracks events on websites
 
-Solution
+## Solution
 
 I was able to complete Blocmetrics through by referencing the curriculum, internet resources, Udemy courses, and textbooks. The application requirements provided a loose set of guidelines for me to follow; however, I enjoyed added my own personal touch to the project.
 
-Results
+## Results
 
 Blocmetrics was another enjoyable project. I continue to incorporate real-world development resources into my projects including the Devise Gem, APIs, & the Chartkick Gem among others. I also used a free layout from getbootstrap.com in order to provide for a smoother layout and styling.
 
-Conclusion
+## Conclusion
 
 I am pleased with how Blocmetrics turned out. I continue to build on my web development skills and look forward to the constructing the next application!
+
+<br />
+
+{:.center}
+
+###[Site Link](https://dry-plateau-88231.herokuapp.com/) | [Source Code](https://github.com/dhelmick103/Blocmetrics)
