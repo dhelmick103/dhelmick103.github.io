@@ -1,0 +1,9 @@
+---
+layout: post
+title: Fourth Blog
+---
+Happy Halloween!  After working hard for the last two months, I am pleased to announce that I have finished the curriculum/foundation portion of Bloc’s Frontend Web Development Course.  I learned a lot over the past few months, covering languages and concepts such as HTML, CSS, JavaScript, jQuery, DOM, and many other concepts.  The highlight of the curriculum was constructing a digital music player called Bloc Jams.  Bloc Jams is not to be mistaken with iTunes; however, I learned a lot of valuable information while working on the project.  I look forward to applying that knowledge when I move on to other projects in the Frontend program.
+
+Speaking of other projects, I have some decisions to make on which projects to complete.  In my previous blog, I was leaning towards completing both Bloc Pong and the Amazon Alexa project.  After reviewing the project guidelines, I am moving forward with both of these projects.  My mentor, Marc Carpenter, advised m to work on the Intro to AngularJS project in which I would refractor my Bloc Jams project with AngularJS.  The other projects I am deciding between are Bloc Chat and Bloc Time.  Bloc Chat is a client chat application that has dedicated chat rooms and users that contribute posts/comments.  Bloc Time allows users to keep track of tasks, set a time, and mark tasks as complete.  Both projects look interesting but I’m not sure which direction I’ll go in.  If I have time, I would like to complete both.  If not, I am leaning towards Bloc Chat.
+
+With the curriculum phase out of the way, I look forward to demonstrating my knowledge in the projects phase of the curriculum.  It’s time to get started on the Intro to AngularJS, Bloc Pong, and The Amazon Alexa Project.  I look forward to sharing my progress with everyone and presenting my portfolio once complete!
