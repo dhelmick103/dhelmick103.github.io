@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bloc Jams Angular
-feature-img: "img/bloc_jams_bg.jpg"
+feature-img: "img/blocjamsangular_screenshot.jpg"
 short-description: Blocjams, a digital music player !
 ---
 

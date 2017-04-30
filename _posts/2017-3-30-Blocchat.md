@@ -3,6 +3,9 @@ layout: post
 title: Bloc Chat
 ---
 
+{:.center}
+![]({{ site.baseurl }}/img/blocchat_screenshot.png)
+
 I am pleased to write that I have completed another project, Bloc Chat.  Bloc Chat is a real-time client chat application built using AngularJS and Firebase.  The idea behind Bloc Chat was to establish a series of chat rooms and allow various users to message others in a respective chat room.  Here's a deeper look at the steps I took in order to bring Bloc Chat to life.  
 
 List Chat Rooms
@@ -31,5 +34,5 @@ Source Code: https://github.com/dhelmick103/bloc-chat/commit/e6867025cb949cff9a9
 Send Messages
 
 In this task, I associated messages with a username in a chat room and took action to ensure that new messages are associated with no chat rooms other than the active one.
- 
+
 Source Code: https://github.com/dhelmick103/bloc-chat/commit/5fd8647a77a8f42639a22631b8fd1991e45a903f
